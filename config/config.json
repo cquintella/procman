@@ -1,0 +1,9 @@
+{
+    "port": 3000,
+    "bindInt": "localhost",
+    "usersRepo": "../data/users.json",
+    "proccessesRepo":"../data/proccesses.json",
+    "logDir":"../log",
+    "privateKeyFile":"../data/cert/key.pem",
+    "certificateFile":"../data/cert/cert.pem"
+  }
